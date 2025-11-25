@@ -8,7 +8,10 @@
 - Duilio do Nascimento Brandão - *RA: 12724216242*
 - Diego de Lima Gomes - *RA: 12724124220*
 ------------------------------------------------------------------------
-
+##Relatório
+O relatorio pode ser acessado pelo link abaixo:
+https://docs.google.com/document/d/1ouCZQFW4T4jl7nGwVftfg8__dKE4enlo/edit?usp=drivesdk&ouid=102608216915985358617&rtpof=true&sd=true
+---
 ## 🧾 Descrição do Projeto
 
 O **PROJETO A3 -- MATRIZES: Calcular Cramer** é uma aplicação dividida
