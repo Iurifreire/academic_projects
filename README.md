@@ -7,6 +7,7 @@
 - Vinicius de Jesus Rocha Reis - *RA: 12724120214*
 - Duilio do Nascimento Brandão - *RA: 12724216242*
 - Diego de Lima Gomes - *RA: 12724124220*
+- Vinicius dos Santos Santana - *RA: 12724121934*
 ------------------------------------------------------------------------
 ## Relatório
 
